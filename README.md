@@ -1,2 +1,2 @@
 
-hello world i just beginning to learn github
+hello world! so happy to start a new journey
